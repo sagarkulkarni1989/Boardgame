@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.javaproject</groupId>
 	<artifactId>database_service_project</artifactId>
-	<version>0.0.11</version>
+	<version>0.0.12</version>
 	<name>database_service_project</name>
 	<description>Project for Spring Boot</description>
 	<packaging>jar</packaging>
@@ -119,11 +119,11 @@
 	<distributionManagement>
           <repository>
              <id>maven-releases</id>
-              <url>http://43.204.233.97:8081/repository/maven-releases/</url>
+              <url>http://3.110.118.87:8081/repository/maven-releases/</url>
          </repository>
 	 <snapshotRepository>
              <id>maven-snapshots</id>
-              <url>http://43.204.233.97:8081/repository/maven-snapshots/</url>
+              <url>http://3.110.118.87:8081/repository/maven-snapshots/</url>
          </snapshotRepository>
 </distributionManagement>
 
