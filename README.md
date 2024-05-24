@@ -51,3 +51,11 @@ This web application displays lists of board games and their reviews. While anyo
   - username: bugs    |     password: bunny (user role)
   - username: daffy   |     password: duck  (manager role)
 5. You can also sign-up as a new user and customize your role to play with the application! 😊
+
+## Referance
+
+1. Kubernetes setup using kubeadm : https://github.com/techiescamp/kubeadm-scripts
+2. https://devopscube.com/setup-kubernetes-cluster-kubeadm/
+3. The Ultimate CICD Corporate DevOps Pipeline Project | Real-Time DevOps Project https://www.youtube.com/watch?v=NnkUGzaqqOc
+
+
